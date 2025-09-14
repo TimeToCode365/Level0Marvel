@@ -8,7 +8,7 @@ To make the app dynamic, I moved the weather-fetching code into a new `getWeathe
 
 This helped me understand how to use **APIs** to fetch and display live data in a web application.
 
-![Weather App](https://postimg.cc/kDSwF7Vt)
+![Weather App](https://i.postimg.cc/jdHKYSHD/Task2.png)
 
 ---
 
@@ -27,7 +27,7 @@ For this task, I learned the basic Git and GitHub commands such as `add`, `commi
 
 I find Git and GitHub to be quite fascinating and will have to get more familiar with it.
 
-![Github Pull Request](https://postimg.cc/9wcpQ7W5)
+![Github Pull Request](https://i.postimg.cc/J0kdKNvn/Task-3-Github.png)
 
 ---
 
@@ -39,9 +39,9 @@ Next, I created 2600 folders. Finally, I concatenated two text files using the `
 
 This exercise helped me become more comfortable with essential terminal commands in Linux.
 
-![UbuntuTerminal1](https://postimg.cc/68ZGFQXd)
+![UbuntuTerminal1](https://i.postimg.cc/qvbXhtDZ/1-masked.png)
 
-![UbuntuTerminal2](https://postimg.cc/RWx06QkH)
+![UbuntuTerminal2](https://i.postimg.cc/7ZfJRKXm/2-masked.png)
 
 ---
 
@@ -118,7 +118,7 @@ Soldering is essential in building and repairing electronic circuits to ensure g
 
 Overall, soldering is a key skill in electronics assembly and repair.
 
-![Soldering](https://postimg.cc/QFxf5tFk)
+![Soldering]([https://postimg.cc/QFxf5tFk](https://i.postimg.cc/T3nFz5GS/Soldering.jpg))
 
 ---
 
