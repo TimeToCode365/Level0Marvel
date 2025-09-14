@@ -73,7 +73,7 @@ Through this process, I decoded and revealed the hidden image while practicing k
 
 This is quite an interesting topic, and I will look into it more.
 
-![ProperImage](https://postimg.cc/QVcwNQJP)
+![ProperImage](https://i.postimg.cc/G3fCQz8c/Task-6.png)
 
 ---
 
@@ -104,8 +104,7 @@ When you increase the voltage, the motor spins faster. If the motor has to move 
 The speed can also be controlled using electronic methods like **Pulse Width Modulation (PWM)**, which adjusts the power supplied to the motor.
 The L298N motor driver acts as an interface between the low-power Arduino signals and the higher current required by the DC motor.
 
-![Speed of DC motor](https://postimg.cc/Y4TLpncL)
-
+![Speed of DC motor](https://i.postimg.cc/nVYZ6LYC/Speed-of-DC-motor.jpg)
 ---
 
 ## Task 12: Soldering
@@ -170,7 +169,7 @@ From the K-map:
 (Alarm is ON when the **Door is open** and the **Key is NOT pressed**)
 
 
-![Circuit](https://postimg.cc/4K5Mbsmg)
+![Circuit](https://i.postimg.cc/P50BLGzg/Task14.png)
 
 ---
 
@@ -182,7 +181,7 @@ From the K-map:
 - Discovered the joy of applying programming skills creatively, shifting from passive learning to active implementation.  
 - Motivated to further improve web development skills and build more impactful solutions in future projects.
 
-![Codefury Certificate](https://postimg.cc/kDV1DxF9)
+![Codefury Certificate](https://i.postimg.cc/Vsg3GgJS/3-Vidhathri-Panambur-Code-Fury-8-0-Participants-Certificate.png)
 
 ---
 
@@ -202,7 +201,7 @@ I had a lot of fun moving around the file system and trying out different comman
 
 Overall, it was a fun and interesting way to practice **Linux troubleshooting**.
 
-![Victory](https://postimg.cc/YLKb5CnZ)
+![Victory](https://i.postimg.cc/90zKq4Gm/Sad-server.png)
 
 ---
 
