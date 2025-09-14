@@ -182,6 +182,7 @@ From the K-map:
 - Motivated to further improve web development skills and build more impactful solutions in future projects.
 
 ![Codefury Certificate](https://postimg.cc/kDV1DxF9)
+
 ---
 
 ## Task 17: Introduction to VR
@@ -201,6 +202,7 @@ I had a lot of fun moving around the file system and trying out different comman
 Overall, it was a fun and interesting way to practice **Linux troubleshooting**.
 
 ![Victory](https://postimg.cc/YLKb5CnZ)
+
 ---
 
 ## Task 20: Jupyter Notebooks 
