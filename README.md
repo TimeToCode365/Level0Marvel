@@ -117,7 +117,7 @@ Soldering is essential in building and repairing electronic circuits to ensure g
 
 Overall, soldering is a key skill in electronics assembly and repair.
 
-![Soldering]([https://postimg.cc/QFxf5tFk](https://i.postimg.cc/T3nFz5GS/Soldering.jpg))
+![Soldering](https://i.postimg.cc/T3nFz5GS/Soldering.jpg))
 
 ---
 
